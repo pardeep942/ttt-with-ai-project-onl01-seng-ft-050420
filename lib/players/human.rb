@@ -4,3 +4,4 @@ class Player::Human < Player
     gets.chomp
   end
 end
+
